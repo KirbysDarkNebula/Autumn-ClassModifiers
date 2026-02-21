@@ -1,0 +1,9 @@
+Variants:
+  KoopaBoneLv1:
+    ModelReplace: 'KoopaBone'
+  KoopaBoneLv2:
+    ModelReplace: 'KoopaBone'
+  KoopaBoneLv3:
+    ModelReplace: 'KoopaBone'
+  Default:
+    ModelReplace: 'Koopa'

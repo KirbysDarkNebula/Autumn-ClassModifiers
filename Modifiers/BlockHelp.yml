@@ -1,0 +1,6 @@
+Variants:
+  BlockAssistAssistItem:
+    ModelReplace: 'BlockAssist'
+  BlockHelpPatapataWing:
+    ModelReplace: 'BlockHelp'
+

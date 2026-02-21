@@ -1,0 +1,9 @@
+Variants:
+  GororiGenerator:
+    ModelReplace: 'Gorori'
+  GororiBigGenerator:
+    ModelReplace: 'GororiBig'
+  GororiSearchGenerator:
+    ModelReplace: 'GororiSearchGenerator'
+  GororiBigSearchGenerator:
+    ModelReplace: 'GororiSearchGenerator'

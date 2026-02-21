@@ -1,0 +1,7 @@
+Variants:
+  KillerMagnumGenerator:
+    ModelReplace: 'KillerMagnum'
+  KillerGenerator:
+    ModelReplace: 'Killer'
+  KillerTailGenerator:
+    ModelReplace: 'KillerTail'

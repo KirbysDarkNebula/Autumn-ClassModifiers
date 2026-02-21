@@ -1,0 +1,13 @@
+Variants:
+  TimerClock100:
+    ModelReplace: TimerClock
+    Translation:
+      X: 0.0
+      Y: 100.0
+      Z: 0.0
+  TimerClock10:
+    ModelReplace: TimerClockSmall
+    Translation:
+      X: 0.0
+      Y: 100.0
+      Z: 0.0

@@ -1,0 +1,8 @@
+Default:
+  ModelReplace: 'BlockPropeller'
+  ExtraModels:
+    BlockPropellerPropeller:
+      Translation:
+        X: 0.0
+        Y: 90.0
+        Z: 0.0

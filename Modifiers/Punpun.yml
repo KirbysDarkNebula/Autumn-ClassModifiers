@@ -1,0 +1,8 @@
+Default:
+    HiddenMeshes:
+      - CloseR
+      - CloseL
+      - HalfL
+      - HalfR
+      - QuarterL
+      - QuarterR

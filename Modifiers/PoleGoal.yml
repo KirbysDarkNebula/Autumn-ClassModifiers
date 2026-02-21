@@ -1,0 +1,8 @@
+Variants:
+  PoleGoal:
+    ExtraModels:
+      PoleGoalBall: null
+  PoleGoalLast:
+    ExtraModels:
+      PoleGoalBall: null
+      PeachRope: null
