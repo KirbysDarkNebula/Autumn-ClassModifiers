@@ -34,7 +34,7 @@
 - SamboHead AddParts -> ArgId = 0, RepeatModel = SamboBody, Offset = vec3 (115 Y)
 - KuriboTower AddParts -> ArgId = 0, RepeatModel = null (repeats), Offset = vec3
 
-## CHANGE MATERIAL
+### CHANGE MATERIAL
 (plays animation frame -> Sets data to the object/material for that specific frame)
 - Kinopio (telescope raccoondog) -> ArgId = 0, AnimationType = material, AnimationName = Color Frame = argvalue
 
