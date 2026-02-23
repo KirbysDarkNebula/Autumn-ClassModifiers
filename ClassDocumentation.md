@@ -31,8 +31,8 @@
 |  KillerGenerator  | KillerTailGenerator | KillerTail |
 |  KillerGenerator  | KillerMagnumGenerator | KillerMagnum |
 |  GororiGenerator  | GororiGenerator | Gorori |
-|  GororiGenerator  | GororiBigGenerator | Gorori |
-|  GororiGenerator  | GororiSearchGenerator | Gorori |
+|  GororiGenerator  | GororiBigGenerator | GororiBig |
+|  GororiGenerator  | GororiSearchGenerator | GororiSearchGenerator |
 
 ### HIDE MESH
 | Class  | Variant / Default | Meshes to hide |
