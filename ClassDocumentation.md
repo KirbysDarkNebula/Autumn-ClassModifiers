@@ -8,6 +8,7 @@
 |  Coin  | Default | 100 Y |
 |  CoinRed  | Default | 100 Y |
 |  CoinCollect  | Default | 100 Y |
+|  BlockTransparent [Editor only] | Default | 50 Y |
 
 ### SCALE
 | Class  | Variant / Default | X, Y, Z |
@@ -24,6 +25,14 @@
 |  BlockHelp  | BlockAssistAssistItem | BlockAssist |
 |  KuriboTower  | Default | Kuribo |
 |  PropellerBlock  | Default | BlockPropeller |
+|  GeneratorBoxHop  | GeneratorBoxHop | GeneratorBox |
+|  GeneratorBoxHop  | GeneratorBoxHopSmall | GeneratorBoxSmall |
+|  KillerGenerator  | KillerGenerator | Killer |
+|  KillerGenerator  | KillerTailGenerator | KillerTail |
+|  KillerGenerator  | KillerMagnumGenerator | KillerMagnum |
+|  GororiGenerator  | GororiGenerator | Gorori |
+|  GororiGenerator  | GororiBigGenerator | Gorori |
+|  GororiGenerator  | GororiSearchGenerator | Gorori |
 
 ### HIDE MESH
 | Class  | Variant / Default | Meshes to hide |
@@ -31,6 +40,7 @@
 |  BlockQuestionLong  | Default | BlockQuestionEmpty |
 |  Bunbun  | Default | EyelidFull, EyelidHalf |
 |  Punpun  | Default | CloseR, CloseL, HalfL, HalfR, QuarterL, QuarterR |
+|  Teresa  | Teresa, TeresaTail | TeresaShay |
 
 ### ADD MESH
 | Class  | Variant / Default | New Model Name | Translation | Rotation | Scale | 
