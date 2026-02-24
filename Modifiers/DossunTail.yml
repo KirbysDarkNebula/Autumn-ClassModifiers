@@ -1,0 +1,16 @@
+Default:
+  ModelReplace: 'Dossun'
+  Scale:
+    X: 0.5
+    Y: 0.5
+    Z: 0.5
+  ExtraModels:
+    DossunTailTail:
+      Scale:
+        X: 2
+        Y: 2
+        Z: 2
+      Translation:
+        X: 0
+        Y: -40
+        Z: 40
