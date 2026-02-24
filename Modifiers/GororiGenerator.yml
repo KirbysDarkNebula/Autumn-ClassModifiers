@@ -3,6 +3,8 @@ Variants:
     ModelReplace: 'Gorori'
   GororiBigGenerator:
     ModelReplace: 'GororiBig'
+  GororiBigGeneratorAir:
+    ModelReplace: 'GororiBig'
   GororiSearchGenerator:
     ModelReplace: 'GororiSearchGenerator'
   GororiBigSearchGenerator:
