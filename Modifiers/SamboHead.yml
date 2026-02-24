@@ -1,0 +1,10 @@
+Default:
+  Args:
+    Arg0:
+      ArgType: Tower
+      RepeatModel: SamboBody
+      CountTop: False
+      Offset:
+        X: 0
+        Y: 115
+        Z: 0
