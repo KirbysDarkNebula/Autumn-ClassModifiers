@@ -2,9 +2,10 @@ Default:
   Args:
     Arg0:
       ArgType: Tower
-      RepeatModel: KuriboTowerChild
-      CountTop: True
-      Offset:
-        X: 0
-        Y: 120
-        Z: 0
+      Properties:
+        RepeatModel: KuriboTowerChild
+        CountTop: True
+        Offset:
+          X: 0
+          Y: 120
+          Z: 0

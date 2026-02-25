@@ -1,0 +1,7 @@
+Default:
+  Args:
+    Arg0:
+      ArgType: AnimChange
+      Properties:
+        AnimName: Color
+        AnimType: MaterialAnim

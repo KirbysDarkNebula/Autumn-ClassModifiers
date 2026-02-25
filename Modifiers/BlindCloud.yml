@@ -1,0 +1,4 @@
+Default:
+  ModelReplace: 'BlindCloudEdge'
+  ExtraModels:
+    BlindCloudCenter: null
