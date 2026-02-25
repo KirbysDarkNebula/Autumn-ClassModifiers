@@ -1,0 +1,5 @@
+Variants:
+  TentenGenerator:
+    ModelReplace: 'Tenten'
+  TentenWingGenerator:
+    ModelReplace: 'TentenWing'
