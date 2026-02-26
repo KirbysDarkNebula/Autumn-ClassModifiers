@@ -1,0 +1,13 @@
+Default:
+  ModelReplace: 'ChainHead'
+  ExtraModels:
+    SwingSpikeHead:
+      Translation:
+        X: 0
+        Y: -700
+        Z: 0
+    SwingSpikeChain:
+      Translation:
+        X: 0
+        Y: -120
+        Z: 0
