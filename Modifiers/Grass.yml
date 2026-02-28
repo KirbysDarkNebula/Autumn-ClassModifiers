@@ -1,0 +1,8 @@
+Variants:
+  SnowCoveredGrass:
+    ExtraModels:
+      SnowCoverGrass: null
+  SnowCoveredFlowerBlue:
+    ModelReplace: 'FlowerBlue'
+    ExtraModels:
+      SnowCoverGrass: null

@@ -1,3 +1,9 @@
 Default:
   HiddenMeshes:
     - BlockQuestionEmpty
+  Args:
+    Arg3:
+      ArgType: AddExtraModel
+      Properties:
+        Models:
+          SnowCoverBlockLong: null
