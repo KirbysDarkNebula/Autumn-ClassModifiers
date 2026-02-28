@@ -1,5 +1,17 @@
+Default:
+  ModelReplace: 'ChainHead'
+  Args:
+    Arg7:
+      ArgType: SwingCoreLength
+      Properties:
+        HeadModel: 'NeedleRoller'
+        ChainModel: 'WanwanChain'
 Variants:
-  SwingNeedleRoller:
-    ModelReplace: 'NeedleRoller'
   SwingNeedleRoller8M:
-    ModelReplace: 'NeedleRoller8M'
+    ModelReplace: 'ChainHead'
+    Args:
+      Arg7:
+        ArgType: SwingCoreLength
+        Properties:
+          HeadModel: 'NeedleRoller8M'
+          ChainModel: 'WanwanChain'
