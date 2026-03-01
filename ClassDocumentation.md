@@ -60,18 +60,28 @@
 # Arg modifiers
 
 ### CHANGE MESHES
-#### "Tower"
+#### Tower
 | Class  | Variant / Default | Arg Id | RepeatModel | Offset | 
 | :--------: | :-------: | :-------: |  :-------: |  :-------: | 
 |  SamboHead  | Default | 0 | SamboBody | 115 Y |
-|  KuriboTower  | Default | 0 |  Kuribo / same as KuriboTower | 100 Y | 
-#### ExtraParts
-| Class  | Variant / Default | Arg Id | ExtraModel | Offset | 
+|  KuriboTower  | Default | 0 |  KuriboTowerChild | 100 Y | 
+
+#### AddExtraModel
+| Class  | Variant / Default | Arg Id | Models | Translation | Scale | Rotation 
+| :--------: | :-------: | :-------: |  :-------: |  :-------: |  :-------: |  :-------: | 
+|  UpperBlock  | Default | 3| SnowCoverBlock | - | - | - |
+|  BlockQuestionLong  | Default | 3| SnowCoverBlockLong | - | - | - |
+|  BlockQuestion  | Default | 3| SnowCoverBlock | - | - | - |
+|  BlockQuestionFlying| Default | 3| SnowCoverBlock | - | - | - |
+|  Kinopio | Default | 5 | BlockPropeller, BlockPropellerPropeller | <0,35,-1.5> <0,135,-1.5> | 1.1 XYZ | - |
+|  KinopioTelescope | Default | 5 | BlockPropeller, BlockPropellerPropeller | <0,35,-1.5> <0,135,-1.5> | 1.1 XYZ | - |
+
+#### SwingCoreLength
+| Class  | Variant / Default | Arg Id | HeadModel | ChainModel | 
 | :--------: | :-------: | :-------: |  :-------: |  :-------: | 
-|  UpperBlock  | Default | 3| SnowCoverBlock | - |
-|  BlockQuestionLong  | Default | 3| SnowCoverBlockLong | - |
-|  BlockQuestion  | Default | 3| SnowCoverBloc | - |
-|  BlockQuestionFlying| Default | 3| SnowCoverBloc | - |
+|  SwingSpike  | Default | 3| SwingSpikeHead | SwingSpikeChain |
+|  SwingNeedleRoller  | Default | 7 | NeedleRoller | WanwanChain |
+|  SwingNeedleRoller  | SwingNeedleRoller8M | 7 | NeedleRoller8M | WanwanChain |
 
 ### CHANGE MATERIAL
 (plays animation frame -> Sets data to the object/material for that specific frame)
