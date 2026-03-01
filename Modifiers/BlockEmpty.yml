@@ -4,3 +4,8 @@ Variants:
       X: 2.0
       Y: 2.0
       Z: 2.0
+  BlockEmptyTrickArt:
+    Scale:
+      X: 2.0
+      Y: 2.0
+      Z: 2.0

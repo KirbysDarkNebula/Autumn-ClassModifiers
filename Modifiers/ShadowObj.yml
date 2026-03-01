@@ -1,0 +1,16 @@
+Default:
+  Args:
+    Arg0:
+      ArgType: ShadowType
+    Arg1:
+      ArgType: ScaleAxis
+      Properties:
+        Axis: X
+    Arg2:
+      ArgType: ScaleAxis
+      Properties:
+        Axis: Y
+    Arg3:
+      ArgType: ScaleAxis
+      Properties:
+        Axis: Z
