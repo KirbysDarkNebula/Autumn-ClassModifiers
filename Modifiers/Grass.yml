@@ -1,8 +1,27 @@
+Default:
+  Args:
+    Arg0:
+      ArgType: AddExtraModel
+      Properties:
+        Models:
+          FlowerPot: null
 Variants:
   SnowCoveredGrass:
     ExtraModels:
       SnowCoverGrass: null
+    Args:
+      Arg0:
+        ArgType: AddExtraModel
+        Properties:
+          Models:
+            FlowerPot: null
   SnowCoveredFlowerBlue:
     ModelReplace: 'FlowerBlue'
     ExtraModels:
       SnowCoverGrass: null
+    Args:
+      Arg0:
+        ArgType: AddExtraModel
+        Properties:
+          Models:
+            FlowerPot: null

@@ -1,0 +1,7 @@
+Default:
+  Args:
+    Arg1:
+      ArgType: AddExtraModel
+      Properties:
+        Models:
+          FlowerPot: null
