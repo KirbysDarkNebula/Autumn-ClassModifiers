@@ -2,4 +2,8 @@ Default:
   ModelReplace: 'BlockEmpty'
   Args:
     Arg0:
-      ArgType: Unknown
+      ArgType: RotateCoreSides
+      Properties:
+        MiddleModel: 'FireBall'
+        PointModel: 'FireBall'
+        UseArgCount: False
